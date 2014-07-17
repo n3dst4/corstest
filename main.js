@@ -1,7 +1,7 @@
 $(function () {
     "use strict";
     var urls = [
-        "http://topsecret.cia.gov/CustomerRestService/", 
+        "http://topsecret.localhost/CustomerRestService/", 
         "http://localhost/CustomerRestService/"
     ];
 
